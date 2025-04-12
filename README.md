@@ -14,16 +14,15 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ---
 
 ## Domíno
-![JavaScript](https://img.shields.io/badge/--bgColor?style=flat&logo=javascript&logoColor=iconColor)
-![TypeScript](https://img.shields.io/badge/--bgColor?style=flat&logo=typescript&logoColor=iconColor)
-![Node.js](https://img.shields.io/badge/--bgColor?style=flat&logo=node.js&logoColor=iconColor)
-![React](https://img.shields.io/badge/--bgColor?style=flat&logo=react&logoColor=iconColor)
-![Express](https://img.shields.io/badge/--bgColor?style=flat&logo=express&logoColor=iconColor)
-![GraphQL](https://img.shields.io/badge/--bgColor?style=flat&logo=graphql&logoColor=iconColor)
-![MongoDB](https://img.shields.io/badge/--bgColor?style=flat&logo=mongodb&logoColor=iconColor)
-![MySQL](https://img.shields.io/badge/--bgColor?style=flat&logo=mysql&logoColor=iconColor)
-![SQLite](https://img.shields.io/badge/--bgColor?style=flat&logo=sqlite&logoColor=iconColor)
-![Git](https://img.shields.io/badge/--bgColor?style=flat&logo=git&logoColor=iconColor)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=ffffff)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
 
 
 ## Experiências
