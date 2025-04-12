@@ -1,7 +1,6 @@
 <h1 align="center">
   Desenvolvedor por paixão, formado pelo Instituto Federal Fluminense de Educação, Ciências e Tecnologia (IFF)
 </h1>
-<img alt="Email" src="https://portal1.iff.edu.br/nossos-campi/reitoria/diretorias-sistemicas/diretoria-de-comunicacao/imagens-pagina-de-id-visual-iff-1/logo-iff-campus-itaperuna.png/@@images/1c5e3eec-3106-41ef-95bd-173c531d919d.png" width="64px" align="center">
 
 ---
 
@@ -10,16 +9,22 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 
 ⚡ Muito café e códigos madrugada a dentro.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="256px" max-width="256px" width="256px" align="right" alt="NoteBook">
 
 ---
 
 ## Domíno
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/--bgColor?style=flat&logo=javascript&logoColor=iconColor)
+![TypeScript](https://img.shields.io/badge/--bgColor?style=flat&logo=typescript&logoColor=iconColor)
+![Node.js](https://img.shields.io/badge/--bgColor?style=flat&logo=node.js&logoColor=iconColor)
+![React](https://img.shields.io/badge/--bgColor?style=flat&logo=react&logoColor=iconColor)
+![Express](https://img.shields.io/badge/--bgColor?style=flat&logo=express&logoColor=iconColor)
+![GraphQL](https://img.shields.io/badge/--bgColor?style=flat&logo=graphql&logoColor=iconColor)
+![MongoDB](https://img.shields.io/badge/--bgColor?style=flat&logo=mongodb&logoColor=iconColor)
+![MySQL](https://img.shields.io/badge/--bgColor?style=flat&logo=mysql&logoColor=iconColor)
+![SQLite](https://img.shields.io/badge/--bgColor?style=flat&logo=sqlite&logoColor=iconColor)
+![Git](https://img.shields.io/badge/--bgColor?style=flat&logo=git&logoColor=iconColor)
+
 
 ## Experiências
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
