@@ -2,17 +2,19 @@
   Desenvolvedor por paixão, formado pelo Instituto Federal Fluminense de Educação, Ciências e Tecnologia (IFF)
 </h1>
 
-
 ---
 
-### Atualmente
+<p align="center">
 Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e segurança. Enfrentamos grandes desafios diariamente, que vencemos aos poucos ao dividir em partes menores e mais gerenciáveis. O objetivo é entregar soluções robustas e escaláveis, capazes de melhorar a experiência de pacientes e profissionais da saúde, sem abrir mão da estabilidade e proteção dos dados. Cada etapa do desenvolvimento é pensada estrategicamente, buscando sempre inovação e eficiência.
+</p>
 
+<h6 align="center">
 ⚡ Muito café e códigos madrugada a dentro.
+</h6>
+
+---
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="256px" max-width="256px" width="256px" align="right" alt="NoteBook">
-
----
 
 ## Domínio
 ![HTML](https://img.shields.io/badge/--E34F26?style=flat&logo=html5&logoColor=ffffff)
