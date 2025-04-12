@@ -14,40 +14,40 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ---
 
 ## Domíno
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000)
-![Express](https://img.shields.io/badge/-Express-fbfbfb?style=flat&logo=express&logoColor=000000)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/-Vercel-ffffff?style=flat&logo=vercel&logoColor=000000)
-![Render](https://img.shields.io/badge/-Render-52ddb5?style=flat&logo=render&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/--3178C6?style=flat&logo=typescript&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/--339933?style=flat&logo=node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/--61DAFB?style=flat&logo=react&logoColor=000000)
+![Express](https://img.shields.io/badge/--fbfbfb?style=flat&logo=express&logoColor=000000)
+![GraphQL](https://img.shields.io/badge/--E10098?style=flat&logo=graphql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/--47A248?style=flat&logo=mongodb&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/--ffffff?style=flat&logo=mysql&logoColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/--7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
+![Vercel](https://img.shields.io/badge/--ffffff?style=flat&logo=vercel&logoColor=000000)
+![Render](https://img.shields.io/badge/--52ddb5?style=flat&logo=render&logoColor=000000)
+![Git](https://img.shields.io/badge/--F05032?style=flat&logo=git&logoColor=ffffff)
 
 
 ## Experiências
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
-![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=000000)
-![Mongoose](https://img.shields.io/badge/-Mongoose-880000?style=flat&logo=mongoose&logoColor=ffffff)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=ffffff)
-![Zod](https://img.shields.io/badge/-Zod-3E52B5?style=flat&logo=Zod&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=ffffff)
-![bcrypt](https://img.shields.io/badge/-bcrypt-121212?style=flat&logo=buffer&logoColor=ffffff)
-![Winston](https://img.shields.io/badge/-Winston-000000?style=flat&logo=winston&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=ffffff)
+![Cloudflare](https://img.shields.io/badge/--F38020?style=flat&logo=cloudflare&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-aws-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
+![Vite](https://img.shields.io/badge/--646CFF?style=flat&logo=vite&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/--CC6699?style=flat&logo=sass&logoColor=ffffff)
+![Nodemon](https://img.shields.io/badge/--76D04B?style=flat&logo=nodemon&logoColor=000000)
+![Mongoose](https://img.shields.io/badge/--880000?style=flat&logo=mongoose&logoColor=ffffff)
+![Axios](https://img.shields.io/badge/--5A29E4?style=flat&logo=axios&logoColor=ffffff)
+![Zod](https://img.shields.io/badge/--3E52B5?style=flat&logo=Zod&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/--000000?style=flat&logo=jsonwebtokens&logoColor=ffffff)
+![bcrypt](https://img.shields.io/badge/--121212?style=flat&logo=buffer&logoColor=ffffff)
+![Winston](https://img.shields.io/badge/-W-ffffff?style=flat&logo=winston&logoColor=000000)
 
 
 ## Dia a Dia
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=ffffff)
-![Zed](https://img.shields.io/badge/-Zed-1A1A1A?style=flat&logo=zed&logoColor=ffffff)
-![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper_Studio-FFB100?style=flat&logo=beekeeping&logoColor=000000)
-![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/--007ACC?style=flat&logo=vscode&logoColor=ffffff)
+![Zed](https://img.shields.io/badge/--1A1A1A?style=flat&logo=zed&logoColor=ffffff)
+![Beekeeper Studio](https://img.shields.io/badge/--FFB100?style=flat&logo=beekeeper&logoColor=000000)
+![Insomnia](https://img.shields.io/badge/--4000BF?style=flat&logo=insomnia&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/--FF6C37?style=flat&logo=postman&logoColor=ffffff)
 
 
 ## Conhecimentos
