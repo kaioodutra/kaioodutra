@@ -1,6 +1,7 @@
 <h1 align="center">
   Desenvolvedor por paixão, formado pelo Instituto Federal Fluminense de Educação, Ciências e Tecnologia (IFF)
 </h1>
+<img alt="Email" src="https://portal1.iff.edu.br/nossos-campi/reitoria/diretorias-sistemicas/diretoria-de-comunicacao/imagens-pagina-de-id-visual-iff-1/logo-iff-campus-itaperuna.png/@@images/1c5e3eec-3106-41ef-95bd-173c531d919d.png" style="width: "70%; max-width: 256px">
 
 ---
 
