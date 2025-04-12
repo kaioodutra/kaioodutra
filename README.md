@@ -13,7 +13,7 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 
 ---
 
-## Domíno
+## Domínio
 ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/--3178C6?style=flat&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/--339933?style=flat&logo=node.js&logoColor=ffffff)
@@ -41,17 +41,17 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ![JWT](https://img.shields.io/badge/--000000?style=flat&logo=jsonwebtokens&logoColor=ffffff)
 ![bcrypt](https://img.shields.io/badge/--121212?style=flat&logo=buffer&logoColor=ffffff)
 ![Winston](https://img.shields.io/badge/-W-ffffff?style=flat&logo=winston&logoColor=000000)
-![Xcode](https://img.shields.io/badge/-Xcode-0078D4?style=flat&logo=xcode&logoColor=000000)
-![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=000000)
+![Xcode](https://img.shields.io/badge/--0078D4?style=flat&logo=xcode&logoColor=ffffff)
+![Android Studio](https://img.shields.io/badge/--3DDC84?style=flat&logo=androidstudio&logoColor=ffffff)
 
-## Dia a Dia
-![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://code.visualstudio.com&size=32)
+#### Dia a Dia
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=https://code.visualstudio.com/assets/images/code-stable-white.png)
 ![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper-FFB100?style=flat&logo=beekeeper&logoColor=000000)
 ![Insomnia](https://img.shields.io/badge/--4000BF?style=flat&logo=insomnia&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/--FF6C37?style=flat&logo=postman&logoColor=ffffff)
 
 
-# Conhecimentos
+##### Conhecimentos
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
