@@ -67,7 +67,7 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ![Angular](https://img.shields.io/badge/--E23237?style=flat&logo=angular&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/--ffffff?style=flat&logo=tailwindcss&logoColor=40bff8)
 ![Cupertino](https://img.shields.io/badge/-Cupertino-000000?style=flat&logo=apple&logoColor=ffffff)
-![Material Design](https://img.shields.io/badge/-Material Design-757575?style=flat&logo=material-design&logoColor=ffffff)
+![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=ffffff)
 ![2FA](https://img.shields.io/badge/--000000?style=flat&logo=keycloak&logoColor=ffffff)
 ![.env](https://img.shields.io/badge/--000000?style=flat&logo=.env&logoColor=ffffff)
 
