@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   Desenvolvedor por paixão, formado pelo Instituto Federal Fluminense de Educação, Ciências e Tecnologia (IFF)
-</p>
+</h1>
 
 ---
 
@@ -8,6 +8,8 @@
 Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e segurança. Enfrentamos grandes desafios diariamente, que vencemos aos poucos ao dividir em partes menores e mais gerenciáveis. O objetivo é entregar soluções robustas e escaláveis, capazes de melhorar a experiência de pacientes e profissionais da saúde, sem abrir mão da estabilidade e proteção dos dados. Cada etapa do desenvolvimento é pensada estrategicamente, buscando sempre inovação e eficiência.
 
 ⚡ Muito café e códigos madrugada a dentro.
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 ---
 
@@ -41,20 +43,16 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 
 ---
 
-### Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaioodutra&show_icons=true&theme=radical" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaioodutra&layout=compact&theme=radical" alt="langs" height="160"/>
-</p>
-
----
-
 ### 📎 Repositórios
-
-- [Gerador de Inputs](https://github.com/SEU-USUARIO/MeuProjetoTop](https://github.com/kaioodutra/input-generator-from-objects): Apenas um script simples para iniciantes em javascript.
-- [TinberWood](https://github.com/SEU-USUARIO/OutroProjetoLegal): Site institucional para empresa TinberWood com envio de e-mail por PHP, simples, rápido e eficiente.
-- [NodeJs + MySQL](https://github.com/kaioodutra/node-MySQL): Introdução simples com NodeJs + MySQL para persistência de dados.
+<a href="https://github.com/kaioodutra/input-generator-from-objects" target="_blank" alt="Gerador de Inputs">Gerador de Inputs</a>
+<p>Apenas um script simples para iniciantes em javascript.</p>
+<br/>
+<a href="https://github.com/kaioodutra/timberwood" target="_blank" alt="Gerador de Inputs">TimberWood</a>
+<p>Site institucional para empresa TimberWood com envio de e-mail por PHP, simples, rápido e eficiente.</p>
+<br/>
+<a href="https://github.com/kaioodutra/node-MySQL" target="_blank" alt="Gerador de Inputs">NodeJs + MySQL</a>
+<p>Introdução simples com NodeJs + MySQL para persistência de dados.</p>
+<br/>
 
 ---
 
@@ -63,5 +61,8 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 <p align="left">
   <a href="mailto:kaioodutra@email.com" target="_blank">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5522998662532" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white">
   </a>
 </p>
