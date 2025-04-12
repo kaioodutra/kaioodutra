@@ -14,7 +14,9 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ---
 
 ## Domínio
+![HTML](https://img.shields.io/badge/--E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat&logo=javascript&logoColor=000000)
+![CSS](https://img.shields.io/badge/--1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/--3178C6?style=flat&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/--339933?style=flat&logo=node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/--61DAFB?style=flat&logo=react&logoColor=000000)
@@ -44,7 +46,9 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ![Xcode](https://img.shields.io/badge/--0078D4?style=flat&logo=xcode&logoColor=ffffff)
 ![Android Studio](https://img.shields.io/badge/--3DDC84?style=flat&logo=androidstudio&logoColor=ffffff)
 
-#### Dia a Dia
+#### Ferramentas
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=macos&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000000)
 ![Visual Studio Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=https://code.visualstudio.com/assets/images/code-stable-white.png)
 ![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper-FFB100?style=flat&logo=beekeeper&logoColor=000000)
 ![Insomnia](https://img.shields.io/badge/--4000BF?style=flat&logo=insomnia&logoColor=ffffff)
@@ -52,24 +56,20 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 
 
 ##### Conhecimentos
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![PHP](https://img.shields.io/badge/--777BB4?style=flat&logo=php&logoColor=ffffff)
+![Python](https://img.shields.io/badge/--3776AB?style=flat&logo=python&logoColor=ffffff)
+![C](https://img.shields.io/badge/--A8B9CC?style=flat&logo=c&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=ffffff)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=ffffff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=ffffff)
+![Cupertino](https://img.shields.io/badge/-Cupertino-000000?style=flat&logo=apple&logoColor=ffffff)
+![Material Design](https://img.shields.io/badge/-Material_Design-757575?style=flat&logo=material-design&logoColor=ffffff)
+![2FA](https://img.shields.io/badge/-2FA-000000?style=flat&logo=keycloak&logoColor=ffffff)
+![.env](https://img.shields.io/badge/--000000?style=flat&logo=.env&logoColor=ffffff)
 
----
-
-### 📎 Repositórios
-<a href="https://github.com/kaioodutra/input-generator-from-objects" target="_blank" alt="Gerador de Inputs">Gerador de Inputs</a>
-<p>Apenas um script simples para iniciantes em javascript.</p>
-<br/>
-<a href="https://github.com/kaioodutra/timberwood" target="_blank" alt="Gerador de Inputs">TimberWood</a>
-<p>Site institucional para empresa TimberWood com envio de e-mail por PHP, simples, rápido e eficiente.</p>
-<br/>
-<a href="https://github.com/kaioodutra/node-MySQL" target="_blank" alt="Gerador de Inputs">NodeJs + MySQL</a>
-<p>Introdução simples com NodeJs + MySQL para persistência de dados.</p>
-<br/>
 
 ---
 
