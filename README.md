@@ -21,7 +21,7 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ![Express](https://img.shields.io/badge/--fbfbfb?style=flat&logo=express&logoColor=000000)
 ![GraphQL](https://img.shields.io/badge/--E10098?style=flat&logo=graphql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/--47A248?style=flat&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/--ffffff?style=flat&logo=mysql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/--ffffff?style=flat&logo=mysql&logoColor=126790)
 ![Bootstrap](https://img.shields.io/badge/--7952B3?style=flat&logo=bootstrap&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/--ffffff?style=flat&logo=vercel&logoColor=000000)
 ![Render](https://img.shields.io/badge/--52ddb5?style=flat&logo=render&logoColor=000000)
@@ -35,6 +35,7 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ![Sass](https://img.shields.io/badge/--CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![Nodemon](https://img.shields.io/badge/--76D04B?style=flat&logo=nodemon&logoColor=000000)
 ![Mongoose](https://img.shields.io/badge/--880000?style=flat&logo=mongoose&logoColor=ffffff)
+![Ts Node](https://img.shields.io/badge/--ffffff?style=flat&logo=tsnode&logoColor=2c68aa)
 ![Axios](https://img.shields.io/badge/--5A29E4?style=flat&logo=axios&logoColor=ffffff)
 ![Zod](https://img.shields.io/badge/--3E52B5?style=flat&logo=Zod&logoColor=ffffff)
 ![JWT](https://img.shields.io/badge/--000000?style=flat&logo=jsonwebtokens&logoColor=ffffff)
@@ -43,9 +44,8 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 
 
 ## Dia a Dia
-![Visual Studio Code](https://img.shields.io/badge/--007ACC?style=flat&logo=vscode&logoColor=ffffff)
-![Zed](https://img.shields.io/badge/--1A1A1A?style=flat&logo=zed&logoColor=ffffff)
-![Beekeeper Studio](https://img.shields.io/badge/--FFB100?style=flat&logo=beekeeper&logoColor=000000)
+![Visual Studio Code](https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=vscode&logoColor=ffffff)
+![Beekeeper Studio](https://img.shields.io/badge/-Beekeeper-FFB100?style=flat&logo=beekeeper&logoColor=000000)
 ![Insomnia](https://img.shields.io/badge/--4000BF?style=flat&logo=insomnia&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/--FF6C37?style=flat&logo=postman&logoColor=ffffff)
 
