@@ -19,7 +19,7 @@ Trabalhando em dois (2) projetos de healthtech, com foco em alta performance e s
 ## Domínio
 ![HTML](https://img.shields.io/badge/--E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/--F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![CSS](https://img.shields.io/badge/--1572B6?style=flat&logo=css3&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/--1572B6?style=flat&logo=css&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/--3178C6?style=flat&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/--339933?style=flat&logo=node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/--61DAFB?style=flat&logo=react&logoColor=000000)
